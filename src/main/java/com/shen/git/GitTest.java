@@ -16,6 +16,6 @@ public class GitTest {
         System.out.println("hot-fix test2");
         System.out.println("push test");
         System.out.println("ppp test");
-        System.out.println("push test");
+        System.out.println("ph test");
     }
 }
