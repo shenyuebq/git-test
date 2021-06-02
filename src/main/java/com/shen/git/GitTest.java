@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("ppp test");
         System.out.println("ph test");
+        System.out.println("pull test");
     }
 }
